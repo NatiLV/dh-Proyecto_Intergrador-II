@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  align-items: center;
+
+}
+body {
+  background-color: #EBEBE9;
+  font-family: Lato;
+}
+h1 {
+color: #01886A;
+font-family: 7CQuicksand;
+text-align: center;
+
+}
+h3 {
+  color: #01886A;
+  font-family: 7CQuicksand;
+  text-align: center;
+
+}
+.margen_pregunta {
+  background-color: #FFFFFF;
+  text-align: center;
+}
+.btn-link {
+  color: #489E7B;
+}
+.card-body {
+  color: #424242;
+  text-align: center;
+  background-color: #EBEBE9;
+}
+.btn-link:hover {
+  color: #01886A;
+}
+
+.card.pregunta > * {
+  width:100%;
+}
